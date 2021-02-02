@@ -29,7 +29,7 @@ Dans ce cas de figure, la ville de Moscou ressort en majorité.
 
 ![alt_text](https://cdn.discordapp.com/attachments/382081589234106389/806175487432327178/unknown.png)
 
-Dans un deuxième temps nous avons calculer les différents écart-types de chaque mois pour  pour vérifier notre prédiction ; grâce à cette méthode nous trouvons cette fois la ville d'Oslo, nous avons donc 2 candidats possible nous allons devoir les départager.
+Dans un deuxième temps nous avons calculer les différents écart-types de chaque mois pour  pour vérifier notre prédiction ; grâce à cette méthode nous trouvons cette fois la ville d'Helsinki, nous avons donc 2 candidats possible nous allons devoir les départager.
 
 ![alt_text](https://cdn.discordapp.com/attachments/382081589234106389/806175327248318524/unknown.png)
 

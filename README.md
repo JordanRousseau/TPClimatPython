@@ -20,3 +20,14 @@ Pour cela nous comparons avec des valeurs proches de la saisie erronée dans le 
 Ensuite nous avons compararé notre graphique avec la station météo de Savukoski et nous arrivons avec 2 courbes qui possèdent la même allure nous pouvons donc conclure que notre ficher mystère est une ville d'Europe du Nord.
 
 ![alt_text](https://cdn.discordapp.com/attachments/382081589234106389/806100279091003402/unknown.png)
+
+Nous avons donc récupéré les données météo de 4 villes : Prague, Oslo, Helsinki et Moscou
+Suite à cela nous avons employé 3 méthode pour trouver quel serait le meilleur candidat possible.
+
+Dans un premier temps nous avons calculer les moyennes de chaque moids cela nous permet de trouver quelle ville à la plus de similitude avec les données de la ville "inconnu" dans le premier cas nous trouvons Moscou.
+
+Dans un deuxième temps nous avons calculer les différents écart-types pour vérifier notre prédiction avec cette méthode nous trouvons la ville d'Oslo. Nous avons donc 2 candidats possible nous allons devoir les départager.
+
+Pour cela nous avons utilisé la méthode du dynamic time wraping qui nous permet de calculer la distance entre deux courbes en fonction du temps et nous trouvons donc la ville Moscou une nouvelle fois.
+
+Pour conclure d'après les méthodes que nous avons utilisés la ville de Moscou semble être le meilleur candidat.
